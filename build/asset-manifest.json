@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/D-calculator/static/css/main.62c76a8d.css",
+    "main.js": "/D-calculator/static/js/main.85d78075.js",
+    "index.html": "/D-calculator/index.html",
+    "main.62c76a8d.css.map": "/D-calculator/static/css/main.62c76a8d.css.map",
+    "main.85d78075.js.map": "/D-calculator/static/js/main.85d78075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c76a8d.css",
+    "static/js/main.85d78075.js"
+  ]
+}
